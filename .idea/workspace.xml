@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e56e3d-bd96-4db7-b980-da4844ddfe1f" name="Changes" comment="Beginning of an exercise 2">
-      <change afterPath="$PROJECT_DIR$/src/zad3/MyFrame.java" afterDir="false" />
+    <list default="true" id="60e56e3d-bd96-4db7-b980-da4844ddfe1f" name="Changes" comment="zad 1 competed, zad2 completed, zad3 near comletion">
+      <change afterPath="$PROJECT_DIR$/src/zad4_zad5_zad6/MyFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad2/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad2/ApplicationMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad2/DrawingArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad2/DrawingArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad2/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad2/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad3/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad3/ApplicationMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zad3/DrawingArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad3/DrawingArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad4_zad5_zad6/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad4_zad5_zad6/ApplicationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad4_zad5_zad6/DrawingArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad4_zad5_zad6/DrawingArea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <recent name="zad2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zad3.ApplicationMain">
+  <component name="RunManager" selected="Application.zad4_zad5_zad6.ApplicationMain">
     <configuration name="ApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zad1.ApplicationMain" />
       <module name="JP_Laby4" />
@@ -106,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zad4_zad5_zad6.ApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4_zad5_zad6.ApplicationMain" />
+      <module name="JP_Laby4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad4_zad5_zad6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zad4_zad5_zad6.ApplicationMain" />
         <item itemvalue="Application.zad3.ApplicationMain" />
         <item itemvalue="Application.zad2.ApplicationMain" />
         <item itemvalue="Application.ApplicationMain" />
@@ -125,7 +137,7 @@
       <workItem from="1700998361480" duration="45000" />
       <workItem from="1700998416543" duration="7454000" />
       <workItem from="1701026755735" duration="302000" />
-      <workItem from="1701601030542" duration="16284000" />
+      <workItem from="1701601030542" duration="28243000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -151,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701605052899</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zad 1 competed, zad2 completed, zad3 near comletion">
+      <option name="closed" value="true" />
+      <created>1701630187745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701630187745</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +180,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Beginning of an exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beginning of an exercise 2" />
+    <MESSAGE value="zad 1 competed, zad2 completed, zad3 near comletion" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad 1 competed, zad2 completed, zad3 near comletion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
