@@ -10,7 +10,7 @@ public class MyFrame extends JFrame {
     private final JPanel topBar = new JPanel();
     private static final JTextField xAcces = new JTextField(2);
     private static final JTextField yAcces = new JTextField(2);
-    MyFrame(){
+    public MyFrame(){
         //MAIN
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setSize(800,800);
